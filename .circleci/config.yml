@@ -90,4 +90,4 @@ workflows:
           requires:
             - save_hello_world_output
       - use-command
-      - fail-job
+      # - fail-job
