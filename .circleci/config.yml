@@ -71,7 +71,7 @@ jobs:
     docker:
       - image: circleci/node:13.8.0
     steps:
-      - run: return 1
+      - run: exit 1
       - run:
           name: Print Error Message
           command: echo "The code had a non-zero exit code"
