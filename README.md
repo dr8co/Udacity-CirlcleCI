@@ -12,5 +12,5 @@ CircleCI is the first `modern CI platform` to deliver `pipelines as code`, enabl
 teams to **version control** their `build processes` **alongside their code**.
 
 This repository contains a CircleCI configuration file to practice
-Continuous Integration using CircleCI as well as to complete exercises
-from Udacity's Cloud DevOps Engineer Nanodegree.
+Continuous Integration using CircleCI as well as to complete exercises from
+[Udacity's Cloud DevOps Engineer Nanodegree](https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991).
